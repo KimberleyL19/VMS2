@@ -1,0 +1,1 @@
+enum GearboxType {Manual, Automatic}
